@@ -1,6 +1,6 @@
 # app_automation_0730
 
-hello
+hello-python-python
 
 data
 
@@ -9,3 +9,5 @@ world
 sun
 
 moon
+
+你好
