@@ -1,6 +1,6 @@
 # app_automation_0730
 
-hello
+hello-python
 
 data
 
